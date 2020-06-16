@@ -1,286 +1,39 @@
-
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Lokal",
-Zalindo artinya ZalTV Indonesia
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Lokal",
-Kami hanya menggunakan app ZALINDO
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Lokal",
-Zalindo TV Plus adalah aplikasi PALSU/ FAKE
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Lokal",
-Dapatkan kode gratis di:
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Lokal",
-https://iptv.my.id/
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Lokal",
-https://t.me/dakocaniptv
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Lokal",
-https://t.me/ZALINDO
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/nettv.png" group-title="Zalindo Lokal",
-NET
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/net.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/kompastv.png" group-title="Zalindo Lokal",
-Kompas TV
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/kompas.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/rtv.png" group-title="Zalindo Lokal",
-RTV
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/rtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/tvri.png" group-title="Zalindo Lokal",
-TVRI
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/tvri.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/inewstv.png" group-title="Zalindo Lokal",
-iNews TV
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/inews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/beritasatutv.png" group-title="Zalindo Lokal",
-Berita Satu
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/beritasatu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/transtv.png" group-title="Zalindo Lokal",
-Trans TV
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/transtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/trans7.png" group-title="Zalindo Lokal",
-Trans7
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/trans7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/gtv.png" group-title="Zalindo Lokal",
-GTV
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/gtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/rcti.png" group-title="Zalindo Lokal",
-RCTI
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/rcti.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/sctv.png" group-title="Zalindo Lokal",
-SCTV
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/sctv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/indosiar.png" group-title="Zalindo Lokal",
-Indosiar
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/indosiar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/metrotv.png" group-title="Zalindo Lokal",
-Metro TV
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/metrotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/mnctv.png" group-title="Zalindo Lokal",
-MNCTV
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/mnc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/jaktv.png" group-title="Zalindo Lokal",
-JAK TV
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/jaktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/daaitv.png" group-title="Zalindo Lokal",
-DAAI TV
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/daiitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/mytv.png" group-title="Zalindo Lokal",
-MYTV
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/mytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/tvedukasi.png" group-title="Zalindo Lokal",
-TV Edukasi
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/tve.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/dwtv.png" group-title="Zalindo Lokal",
-DW English
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/dwenglish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/alquran.png" group-title="Zalindo Lokal",
-Al Quran Al Kareem TV
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/alquran.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/reformed21.png" group-title="Zalindo Lokal",
-Reformed 21
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/reformed.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/uchannel.png" group-title="Zalindo Lokal",
-U Channel
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/uchannel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/ochannel.png" group-title="Zalindo Lokal",
-O Channel
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/ochannel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/oshop.png" group-title="Zalindo Lokal",
-O Shop
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/oshop.m3u8
-
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Radio",
-Zalindo artinya ZalTV Indonesia
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Radio",
-Kami hanya menggunakan app ZALINDO
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Radio",
-Zalindo TV Plus adalah aplikasi PALSU/ FAKE
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Radio",
-Dapatkan kode gratis di:
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Radio",
-https://iptv.my.id/
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Radio",
-https://t.me/dakocaniptv
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Radio",
-https://t.me/ZALINDO
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/brava.png" group-title="Zalindo Radio",
-Brava FM
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/bravafm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/cosmopolitan.png" group-title="Zalindo Radio",
-Cosmopolitan FM
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/cosmopolitanfm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/hardrock.png" group-title="Zalindo Radio",
-HardRock FM Jakarta
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/hardrockfm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/iradio.png" group-title="Zalindo Radio",
-iRadio FM Jakarta
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/iradiofm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/prambors.png" group-title="Zalindo Radio",
-Prambors FM
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/pramborsfm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/trax.png" group-title="Zalindo Radio",
-Trax FM
-https://vpsus.iptv.my.id/session/zalindo-lebaran/vidio/traxfm.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Movie",
-Zalindo artinya ZalTV Indonesia
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Movie",
-Kami hanya menggunakan app ZALINDO
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Movie",
-Zalindo TV Plus adalah aplikasi PALSU/ FAKE
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Movie",
-Dapatkan kode gratis di:
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Movie",
-https://iptv.my.id/
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Movie",
-https://t.me/dakocaniptv
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Zalindo Movie",
-https://t.me/ZALINDO
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbo.png" group-title="Zalindo Movie",
-HBO ID
-https://vpsus.iptv.my.id//session/dakocan-iptv/trial/ambil/link/ini/rezekinya/pindah/ke/admin/dakocan-iptv/amiinn/hbo.m3u8
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbosign.png" group-title="Zalindo Movie",
-HBO Signature
-https://vpsus.iptv.my.id//session/dakocan-iptv/trial/ambil/link/ini/rezekinya/pindah/ke/admin/dakocan-iptv/amiinn/hbo-sign.m3u8
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbohits.png" group-title="Zalindo Movie",
-HBO Hits
-https://vpsus.iptv.my.id//session/dakocan-iptv/trial/ambil/link/ini/rezekinya/pindah/ke/admin/dakocan-iptv/amiinn/hbo-hits.m3u8
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbofamily.png" group-title="Zalindo Movie",
-HBO Family
-https://vpsus.iptv.my.id//session/dakocan-iptv/trial/ambil/link/ini/rezekinya/pindah/ke/admin/dakocan-iptv/amiinn/hbo-fam.m3u8
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cinemax1.png" group-title="Zalindo Movie",
-Cinemax
-https://vpsus.iptv.my.id//session/dakocan-iptv/trial/ambil/link/ini/rezekinya/pindah/ke/admin/dakocan-iptv/amiinn/cinemax.m3u8
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/red.png" group-title="Zalindo Movie",
-Red By HBO
-https://vpsus.iptv.my.id//session/dakocan-iptv/trial/ambil/link/ini/rezekinya/pindah/ke/admin/dakocan-iptv/amiinn/redbyhbo.m3u8
-
-------------------
-
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Khusus Indonesia",
-Zalindo artinya ZalTV Indonesia
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Khusus Indonesia",
-Kami hanya menggunakan app ZALINDO
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Khusus Indonesia",
-Zalindo TV Plus adalah aplikasi PALSU/ FAKE
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Khusus Indonesia",
-Dapatkan kode gratis di:
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Khusus Indonesia",
-https://iptv.my.id/
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Khusus Indonesia",
-https://t.me/dakocaniptv
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/zalindo.png" group-title="Khusus Indonesia",
-https://t.me/ZALINDO
-https://raw.githubusercontent.com/bacangaja3/zaltv/video/zalindo.ts
-
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/animalpl.png" group-title="Khusus Indonesia",
-Animal Planet
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=FE754EEE11C474F6C90452CF989C02463F35BF77&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/afn.png" group-title="Khusus Indonesia",
-Asian Food Channel
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=55F1D428F8430B8043855EE1A817CAD070D7E395&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/axn.png" group-title="Khusus Indonesia",
-AXN
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=32C1B76647871825FB1E27479155A683F3B33666&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/bbcworld.png" group-title="Khusus Indonesia",
-BBC World News
-http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/bloomberg.png" group-title="Khusus Indonesia",
-Bloomberg International
-http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246AEB35D9D916F70E2FE63&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/extreme.png" group-title="Khusus Indonesia",
-Blue Ant Extreme
-#http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EBE11ADE30E96AD4B5AFB52CC6F6840F981FD879&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cartoonnet.png" group-title="Khusus Indonesia",
-Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121AD74C428131F98E22DBB7&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cinemax.png" group-title="Khusus Indonesia",
-Cinemax
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=471460A2F9702845F696A07FE208D021208CAE47&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cnbc.png" group-title="Khusus Indonesia",
-CNBC International
-http://203.153.218.28:9981/stream/channelid/1744735983?ticket=356480E525DC0ADEA2A40DFD43C0F52D66394C2D&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/cnninter.png" group-title="Khusus Indonesia",
-CNN International
-http://203.153.218.28:9981/stream/channelid/1328589592?ticket=873D54D5C7D80531C55C5957338BB36842E10E95&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/discch.png" group-title="Khusus Indonesia",
-Discovery Channel
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=B0CF8905071E52CFEBDBE257DFA27B39601F2A6F&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/disneych.png" group-title="Khusus Indonesia",
-Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=7067922419741D51CC687FB596AF9C5D3C913703&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/fox.png" group-title="Khusus Indonesia",
-FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9C78CF34633A925063D333AA62610E58DE4743F7&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/fofamo.png" group-title="Khusus Indonesia",
-FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=FAA59AF9056556AD852BA91B14A11BC36F88FB30&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/foxmo.png" group-title="Khusus Indonesia",
-Fox Movies
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=1A08169169B8C3E2D95B82886B55BBBD5E6674B7&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbofamily.png" group-title="Khusus Indonesia",
-HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=61B6D14FFCC616019D571AC85FA514703D3C83B4&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbo.png" group-title="Khusus Indonesia",
-HBO HD
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EBE11ADE30E96AD4B5AFB52CC6F6840F981FD879&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbohits.png" group-title="Khusus Indonesia",
-HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=851317AB04C0CADDD2FEE87F52D657E1492AC735&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/hbosign.png" group-title="Khusus Indonesia",
-HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=AF12881090B35A16481BAF385A7CAEA4E595BC98&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/h1.png" group-title="Khusus Indonesia",
-History Channel
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=75DAA0C535858DB22080C1C86709CEF357176ED2&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/indosiar.png" group-title="Khusus Indonesia",
-Indosiar
-http://203.153.218.28:9981/stream/channelid/261435212?ticket=42F5FD5FFD34C9B66FAFDC40D510F30E6C1A0A4A&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeopeople.png" group-title="Khusus Indonesia",
-NAT GEO People
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeowild.png" group-title="Khusus Indonesia",
-NAT GEO Wild
-http://203.153.218.28:9981/stream/channelid/1497533758?ticket=93D769EAB3B1D37C526EF293E7247EAA368042FC&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/natgeo.png" group-title="Khusus Indonesia",
-National Geographic
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=0A08D4501E9D82D61E86B64CD87FE14B0C0915C9&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/nick.png" group-title="Khusus Indonesia",
-Nickelodeon Asia
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=6A027DC9DC67017F3BCDB2A786463E3D189D9713&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/setantahd.png" group-title="Khusus Indonesia",
-Setanta Sports
-http://203.153.218.28:9981/stream/channelid/981299476?ticket=12C9097A699FE253487F44D457A003F3B89E5C36&profile=pass
-#EXTINF:-1 tvg-logo="http://193.70.73.242:51651/images/zalindo/tctkids.png" group-title="Khusus Indonesia",
-TLC
-http://203.153.218.28:9981/stream/channelid/391618553?ticket=EF9620DAF73176947D92EA2BD20C3AF456F02309&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/daaitv.png" group-title="Lokal",DAAI TV
+https://etslive-2-vidio-com.akamaized.net/exp=1592274418~acl=/hls-p/ingest_6482_*/*~hmac=34b47fa210826c84dba98072e85b2497a24434f39af19c31f4607a18383a8ab2/hls-p/ingest_6482_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/tvri.png" group-title="Lokal",TVRI
+https://etslive-2-vidio-com.akamaized.net/exp=1592283726~acl=/hls-p/ingest_6441_*/*~hmac=08f7b2b101b43e7eec6fa2a02d87f01c45ad9fc611b9b800e3e034a9573d585c/hls-p/ingest_6441_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/sctv.png" group-title="Lokal",SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1592284117~acl=/hls-p/ingest_204_*/*~hmac=e73ce60a927cfb53110f38b3c8b923deb55022193567b8a925dd59199bf01630/hls-p/ingest_204_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/indosiar.png" group-title="Lokal",Indosiar
+https://etslive-2-vidio-com.akamaized.net/exp=1592284649~acl=/hls-p/ingest_205_*/*~hmac=55a55e6a1691c6ba2ad489be902683c279f283ce70fcf8ce6a7f00bb95c09491/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/ochannel.png" group-title="Lokal",O Channel
+https://etslive-2-vidio-com.akamaized.net/exp=1592285439~acl=/hls-p/ingest_206_*/*~hmac=47bcd228066ab8f8e640ecd43cc80ab54e96e9c5fe2df913e7736b37204fdee1/hls-p/ingest_206_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/kompastv.png" group-title="Lokal",Kompas TV
+https://etslive-2-vidio-com.akamaized.net/exp=1592285605~acl=/hls-p/ingest_874_*/*~hmac=cc5ad3e14367984e5417dfca21dd7d31582ce3cbdaa5e10bac0056bd1bbce4e4/hls-p/ingest_874_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/beritasatutv.png" group-title="Lokal",Berita Satu
+https://etslive-2-vidio-com.akamaized.net/exp=1592285821~acl=/hls-p/ingest_6165_*/*~hmac=bc2ca3205c520923b10ab1fc1c878a808fc86a81bbd359588219416c6790b0f3/hls-p/ingest_6165_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/metrotv.png" group-title="Lokal",Metro TV
+https://etslive-2-vidio-com.akamaized.net/exp=1592285893~acl=/hls-p/ingest_777_*/*~hmac=9bb4657f1073ff00dee9bf85610f0b3637ba6d2ff2a9d78137080e0f7a8aeba7/hls-p/ingest_777_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/transtv.png" group-title="Lokal",Trans TV
+https://etslive-2-vidio-com.akamaized.net/exp=1592285945~acl=/hls-p/ingest_733_*/*~hmac=a5dbfedde6eb365a8dd14e281461959e371306458e09e71101653bf86e335bc5/hls-p/ingest_733_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/rcti.png" group-title="Lokal",RCTI
+https://etslive-2-vidio-com.akamaized.net/exp=1592285936~acl=/hls-p/ingest_665_*/*~hmac=9df27a36cb7651b5e73df03e1cd70a6c1b8834ae6a831a919a39d0ff4b08eb42/hls-p/ingest_665_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/trans7.png" group-title="Lokal",Trans7
+https://etslive-2-vidio-com.akamaized.net/exp=1592285957~acl=/hls-p/ingest_734_*/*~hmac=72d66aff9439c68c0b251df91d7fd967c4b6d6f292bed3b7e10f6657497984c6/hls-p/ingest_734_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/mnctv.png" group-title="Lokal",MNCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1592285707~acl=/hls-p/ingest_870_*/*~hmac=8132360d5b6c0ba093299cdc738a93ce3826a762fc899c1235f5ccd6ecc83776/hls-p/ingest_870_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/jaktv.png" group-title="Lokal",JAK TV
+https://etslive-2-vidio-com.akamaized.net/exp=1592285705~acl=/hls-p/ingest_5415_*/*~hmac=08284c7936e262be2ab7f47ff361093e47038e7cea06dcacfae25609933883ff/hls-p/ingest_5415_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/gtv.png" group-title="Lokal",GTV
+https://etslive-2-vidio-com.akamaized.net/exp=1592287305~acl=/hls-p/ingest_778_*/*~hmac=592c4dfd53ace08dc17c7b19e08c3fb38f75d7e9a99ea7164016fc30ea812a01/hls-p/ingest_778_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/nettv.png" group-title="Lokal",NET
+https://etslive-2-vidio-com.akamaized.net/exp=1592287153~acl=/hls-p/ingest_875_*/*~hmac=306fbd4ddeb6cbd2117685c7e807b37185cb2934b5e0b63135b9dc300794d597/hls-p/ingest_875_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/rtv.png" group-title="Lokal",RTV
+https://etslive-2-vidio-com.akamaized.net/exp=1592287348~acl=/hls-p/ingest_geo_1561_*/*~hmac=b72ed4dc08a32f4118d69118fe57a39fd6841e561c6f894dde38122df7751eff/hls-p/ingest_geo_1561_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/inewstv.png" group-title="Lokal",iNews TV
+https://etslive-2-vidio-com.akamaized.net/exp=1592287123~acl=/hls-p/ingest_5409_*/*~hmac=a96c21156efa875279940e163166857fe488950428eaea93dfcc0c4073e3a60e/hls-p/ingest_5409_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/oshop.png" group-title="Lokal",O Shop
+https://etslive-2-vidio-com.akamaized.net/exp=1592287444~acl=/hls-p/ingest_6166_*/*~hmac=6ab1226b9e2150796786095f12c885555a0745772856f8f7b6254cf4d3815763/hls-p/ingest_6166_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://193.70.73.242:51651/images/zalindo/mytv.png" group-title="Lokal",MYTV
+https://etslive-2-vidio-com.akamaized.net/exp=1592287451~acl=/hls-p/ingest_6711_*/*~hmac=72a4f4ea5bae6e1a0417d231c63493d481d29f367918e7a71bcc1ed90d686952/hls-p/ingest_6711_720p/index.m3u8
